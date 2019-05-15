@@ -1,3 +1,0 @@
-Bread, 2, loaf, 1.5 
-Milk, 3, gallon, 2.25 
-Eggs, 1, dozen, 3 

@@ -1,5 +1,0 @@
-Red, Blue, Green
-Green, Yellow
-Violet, Indigo, Orange
-Red, Yellow
-Blue, Red, Orange, Violet
